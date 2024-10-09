@@ -34,7 +34,7 @@ export const Footer = () => {
     <div className="footer">
         <div className="footer-1--div">
             <div className="logo">
-                <a href="index.html"><img src="images/logo.png" alt="logo of the website" width="10%" height="auto"/></a>
+                <Link to="/"><img src="images/logo.png" alt="logo of the website" width="10%" height="auto"/></Link>
             </div>
             <p>Subscribe us to get updates about our grand offers.</p>
             <br/>

@@ -10,12 +10,12 @@ export const HeroSection = () => {
       <figure>
           <img src="images/banner-img.png" alt="banner" width="350"/>
       </figure>
-  </div>
-      <div className="left--hero">
+   </div>
+    <div className="left--hero">
           <h1 className="big--heading">Take Memories <br/>Leave FootPrint</h1>
           <p className="heading">Where ever you go... <br/> good and healthy care</p>
           <div ><a href="product.html" className="btn">Shop now</a></div>
-      </div>
+    </div>
   </div> 
   <div className="custom-shape-divider-bottom-1711799045">
       <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
